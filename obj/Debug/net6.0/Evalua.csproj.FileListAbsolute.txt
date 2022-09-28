@@ -1,0 +1,15 @@
+C:\Evalua\obj\Debug\net6.0\Evalua.csproj.AssemblyReference.cache
+C:\Evalua\obj\Debug\net6.0\Evalua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Evalua\obj\Debug\net6.0\Evalua.AssemblyInfoInputs.cache
+C:\Evalua\obj\Debug\net6.0\Evalua.AssemblyInfo.cs
+C:\Evalua\obj\Debug\net6.0\Evalua.csproj.CoreCompileInputs.cache
+C:\Evalua\bin\Debug\net6.0\Evalua.exe
+C:\Evalua\bin\Debug\net6.0\Evalua.deps.json
+C:\Evalua\bin\Debug\net6.0\Evalua.runtimeconfig.json
+C:\Evalua\bin\Debug\net6.0\Evalua.dll
+C:\Evalua\bin\Debug\net6.0\Evalua.pdb
+C:\Evalua\obj\Debug\net6.0\Evalua.dll
+C:\Evalua\obj\Debug\net6.0\refint\Evalua.dll
+C:\Evalua\obj\Debug\net6.0\Evalua.pdb
+C:\Evalua\obj\Debug\net6.0\Evalua.genruntimeconfig.cache
+C:\Evalua\obj\Debug\net6.0\ref\Evalua.dll
